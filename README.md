@@ -9,4 +9,11 @@
   <li>😃 - smiling face with open mouth
   <li>😄 - smiling face with open mouth and smiling eyes
   <li>😅 - smiling face with open mouth and cold sweat
+  <li>😆 - smiling face with open mouth and closed eyes
+  <li>😉 - winking face
+  <li>😊 - smiling face with smiling eyes
+  <li>😋 - face savouring delicious food
+  <li>😎 - smiling face with sunglasses
+  <li>😍 - smiling face with heart-eyes
+  <li>😘 - face blowing a kiss
 </ul>
