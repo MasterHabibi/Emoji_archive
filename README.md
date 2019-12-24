@@ -19,4 +19,6 @@
   <li>😗 - kissing face
   <li>😙 - lissing face with smiling eyes
   <li>😚 - kissing face with closed eyes
+  <li>☺ - smiling face
+  <li>🙂 - slightly smiling face
 </ul>
