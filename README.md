@@ -22,4 +22,8 @@
   <li>🙂 - slightly smiling face
   <li>🤗 - hugging face
   <li>🤩 - star struck
+  <li>🤔 - thinking face
+  <li>🤨 - face with raised eyebrow
+  <li>😐 - neutral face
+  <li>😑 - expressionless face
 </ul>
