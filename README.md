@@ -28,4 +28,5 @@
   <li>😑 - expressionless face
   <li>😶 - face without mouth
   <li>🙄 - face with rolling eyes
+  <li>😏 - smirking face
 </ul>
