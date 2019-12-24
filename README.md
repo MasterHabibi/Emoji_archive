@@ -16,4 +16,5 @@
   <li>😎 - smiling face with sunglasses
   <li>😍 - smiling face with heart-eyes
   <li>😘 - face blowing a kiss
+  <li>😗 - kissing face
 </ul>
