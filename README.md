@@ -26,4 +26,6 @@
   <li>🤨 - face with raised eyebrow
   <li>😐 - neutral face
   <li>😑 - expressionless face
+  <li>😶 - face without mouth
+  <li>🙄 - face with rolling eyes
 </ul>
