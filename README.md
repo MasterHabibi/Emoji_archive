@@ -17,4 +17,6 @@
   <li>😍 - smiling face with heart-eyes
   <li>😘 - face blowing a kiss
   <li>😗 - kissing face
+  <li>😙 - lissing face with smiling eyes
+  <li>😚 - kissing face with closed eyes
 </ul>
