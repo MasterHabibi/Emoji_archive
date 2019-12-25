@@ -33,4 +33,7 @@
   <li>😥 - dissapointed but relieved face
   <li>😮 - face with open mouth
   <li>🤐 - zipper-mouth face
+  <li>😯 - hushed face
+  <li>😪 - sleepy face
+  <li>😫 - tered face
 </ul>
