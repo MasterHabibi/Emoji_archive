@@ -29,4 +29,8 @@
   <li>😶 - face without mouth
   <li>🙄 - face with rolling eyes
   <li>😏 - smirking face
+  <li>😣 - persevering face
+  <li>😥 - dissapointed but relieved face
+  <li>😮 - face with open mouth
+  <li>🤐 - zipper-mouth face
 </ul>
