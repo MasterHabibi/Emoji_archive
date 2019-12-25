@@ -1,7 +1,7 @@
 <img src="./immages/images.jpg">
 <h1>Emoji_archive</h1>
 <h2>Emoticons and people and animals</h2>
-<h2><ul>
+<h3><ul>
   <li>😀 - grinning face
   <li>😁 - grinning face with smiling eyes
   <li>😂 - face with tears of joy
@@ -36,4 +36,4 @@
   <li>😯 - hushed face
   <li>😪 - sleepy face
   <li>😫 - tered face
-</ul></h2>
+</ul></h3>
