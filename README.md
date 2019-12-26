@@ -43,4 +43,7 @@
   <li>😝 - face with stuck-out tongue and closed eyes
   <li>🤤 - drooling face
   <li>😒 - unamused face
+  <li>😓 - face with cold sweat
+  <li>😔 - pensive face
+  <li>😕 - confused face
 </ul></h3>
