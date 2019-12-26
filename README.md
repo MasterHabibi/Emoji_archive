@@ -1,6 +1,6 @@
 <img src="./immages/images.jpg">
-<h1>Emoji_archive</h1>
-<h2>🐱‍🐉 Emoticons and people and animals</h2>
+<h1><b>Emoji_archive</b></h1>
+<h1>🐱‍🐉 Emoticons and people and animals</h1>
 <h3><ul>
   <li>😀 - grinning face
   <li>😁 - grinning face with smiling eyes
