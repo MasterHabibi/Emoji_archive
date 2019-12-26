@@ -41,4 +41,6 @@
   <li>😛 - face with stuck-out tongue
   <li>😜 - face with stuck-out tongue and winking eye
   <li>😝 - face with stuck-out tongue and closed eyes
+  <li>🤤 - drooling face
+  <li>😒 - unamused face
 </ul></h3>
