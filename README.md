@@ -48,4 +48,5 @@
   <li>😕 - confused face
   <li>🙃 - upside-down face
   <li>🤑 - money-mouth face
+  <li>😲 - astonished face
 </ul></h3>
