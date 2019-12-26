@@ -46,4 +46,6 @@
   <li>😓 - face with cold sweat
   <li>😔 - pensive face
   <li>😕 - confused face
+  <li>🙃 - upside-down face
+  <li>🤑 - money-mouth face
 </ul></h3>
