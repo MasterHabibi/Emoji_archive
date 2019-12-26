@@ -36,4 +36,6 @@
   <li>😯 - hushed face
   <li>😪 - sleepy face
   <li>😫 - tered face
+  <li>😴 - sleeping face
+  <li>😌 - relieved face
 </ul></h3>
