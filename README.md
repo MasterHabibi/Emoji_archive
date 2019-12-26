@@ -38,4 +38,7 @@
   <li>😫 - tered face
   <li>😴 - sleeping face
   <li>😌 - relieved face
+  <li>😛 - face with stuck-out tongue
+  <li>😜 - face with stuck-out tongue and winking eye
+  <li>😝 - face with stuck-out tongue and closed eyes
 </ul></h3>
