@@ -55,4 +55,5 @@
   <li>😤 - face with steam from nose
   <li>😢 - crying face
   <li>😭 - loudly crying face
+  <li>😦 - frowning face with open mouth
 </ul></h3>
