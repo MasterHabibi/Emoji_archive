@@ -51,4 +51,6 @@
   <li>🙁 - slightly frowning face
   <li>😖 - confounded face
   <li>😞 - disappointed face
+  <li>😟 - worried face
+  <li>😤 - face with steam from nose
 </ul></h3>
