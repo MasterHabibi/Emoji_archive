@@ -50,4 +50,5 @@
   <li>😲 - astonished face
   <li>🙁 - slightly frowning face
   <li>😖 - confounded face
+  <li>😞 - disappointed face
 </ul></h3>
