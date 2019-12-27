@@ -53,4 +53,6 @@
   <li>😞 - disappointed face
   <li>😟 - worried face
   <li>😤 - face with steam from nose
+  <li>😢 - crying face
+  <li>😭 - loudly crying face
 </ul></h3>
