@@ -48,4 +48,6 @@
   <li>🙃 - upside-down face
   <li>🤑 - money-mouth face
   <li>😲 - astonished face
+  <li>🙁 - slightly frowning face
+  <li>😖 - confounded face
 </ul></h3>
