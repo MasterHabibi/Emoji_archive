@@ -59,4 +59,7 @@
   <li>😧 - anguished face
   <li>😨 - fearful face
   <li>😩 - weary face
+  <li>🤯 - exploding head
+  <li>😬 - grimacing face
+  <li>😰 - face with open mouth face with open mouth and coald sweat
 </ul></h3>
