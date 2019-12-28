@@ -56,4 +56,7 @@
   <li>😢 - crying face
   <li>😭 - loudly crying face
   <li>😦 - frowning face with open mouth
+  <li>😧 - anguished face
+  <li>😨 - fearful face
+  <li>😩 - weary face
 </ul></h3>
