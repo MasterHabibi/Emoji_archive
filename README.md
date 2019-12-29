@@ -62,4 +62,10 @@
   <li>🤯 - exploding head
   <li>😬 - grimacing face
   <li>😰 - face with open mouth face with open mouth and coald sweat
+  <li>😱 - face screaming in fear
+  <li>😳 - flushed face
+  <li>🤪 - crazy face
+  <li>😵 - dizzy face
+  <li>😠 - angry face
+  <li>😡 - pouting face
 </ul></h3>
