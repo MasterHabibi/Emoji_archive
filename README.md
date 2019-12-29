@@ -68,4 +68,10 @@
   <li>😵 - dizzy face
   <li>😠 - angry face
   <li>😡 - pouting face
+  <li>🤬 - face with symbols over mouth
+  <li>😷 - face with medical mask
+  <li>🤒 - face with thermometer
+  <li>🤕 - face with head-bandage
+  <li>🤢 - nauseated face
+  <li>🤮 - face vomiting
 </ul></h3>
