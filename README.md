@@ -74,4 +74,13 @@
   <li>🤕 - face with head-bandage
   <li>🤢 - nauseated face
   <li>🤮 - face vomiting
+  <li>🤧 - sneezing face
+  <li>😇 - smiling face with halo
+  <li>🤠 - cowboy hat face
+  <li>🤡 - clown face
+  <li>🤥 - lying face
+  <li>🤫 - shushing face
+  <li>🤭 - face with hand over mouth
+  <li>🧐 - face with monocle
+  <li>🤓 - nerd face
 </ul></h3>
