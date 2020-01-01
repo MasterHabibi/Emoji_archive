@@ -83,4 +83,18 @@
   <li>🤭 - face with hand over mouth
   <li>🧐 - face with monocle
   <li>🤓 - nerd face
+  <li>😈 - smiling face with horns
+  <li>👿 - angry face with horns
+  <li>👹 - ogre
+  <li>👺 - goblin
+  <li>💀 - skull
+  <li>☠ - skull and crossbones
+  <li>👻 - ghost
+  <li>👽 - alien
+  <li>👾 - alien monster
+  <li>🤖 - robot face
+  <li>💩 - pile of poo
+  <li>😺 - smiling cat face with open mouth
+  <li>😸 - grinning cat face with smiling eyes
+  <li>😹 - cat face with tears of joy
 </ul></h3>
