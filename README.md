@@ -97,4 +97,11 @@
   <li>😺 - smiling cat face with open mouth
   <li>😸 - grinning cat face with smiling eyes
   <li>😹 - cat face with tears of joy
+  <li>😻 - smiling cat face with heart-eyes
+  <li>😼 - cat face with wry smile
+  <li>😽 - kissing cat face with closed eyes
+  <li>🙀 - weary cat face
+  <li>😿 - crying cat face
+  <li>😾 - pouting cat face
+  <li>🐱‍👤 - ninja cat
 </ul></h3>
