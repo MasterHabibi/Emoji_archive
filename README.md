@@ -104,4 +104,5 @@
   <li>😿 - crying cat face
   <li>😾 - pouting cat face
   <li>🐱‍👤 - ninja cat
+  <li>🐱‍🏍 - stunt cat
 </ul></h3>
