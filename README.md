@@ -105,4 +105,5 @@
   <li>😾 - pouting cat face
   <li>🐱‍👤 - ninja cat
   <li>🐱‍🏍 - stunt cat
+  <li>🐱‍💻 - hacker cat
 </ul></h3>
