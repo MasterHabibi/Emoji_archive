@@ -106,4 +106,9 @@
   <li>🐱‍👤 - ninja cat
   <li>🐱‍🏍 - stunt cat
   <li>🐱‍💻 - hacker cat
+  <li>🐱‍🐉 - dino cat
+  <li>🐱‍👓 - hipster cat
+  <li>🐱‍🚀 - astro cat
+  <li>🙈 - see-no-evil monkey
+  <li>🙉 - hear-no-evil monkey
 </ul></h3>
