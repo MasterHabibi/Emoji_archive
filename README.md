@@ -111,4 +111,11 @@
   <li>🐱‍🚀 - astro cat
   <li>🙈 - see-no-evil monkey
   <li>🙉 - hear-no-evil monkey
+  <li>🙊 - speak-no-evil monkey
+  <li>🐵 - monkey face
+  <li>🐶 - dog face
+  <li>🐺 - wolf face
+  <li>🐱 - cat face
+  <li>🦁 - lion face
+  <li>🐯 - tiger face
 </ul></h3>
