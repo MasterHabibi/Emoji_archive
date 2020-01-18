@@ -118,4 +118,5 @@
   <li>🐱 - cat face
   <li>🦁 - lion face
   <li>🐯 - tiger face
+  <li>🦒 - giraffe
 </ul></h3>
