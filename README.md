@@ -119,4 +119,31 @@
   <li>🦁 - lion face
   <li>🐯 - tiger face
   <li>🦒 - giraffe
+  <li>🦊 - fox face
+  <li>🐮 - cow face
+  <li>🐷 - pig face
+  <li>🐗 - boar
+  <li>🐭 - mouse face
+  <li>🐹 - hamster face
+  <li>🐰 - rabbit face
+  <li>🐻 - bear face
+  <li>🐨 - koala
+  <li>🐼 - panda face
+  <li>🐸 - frog face
+  <li>🦓 - zebra
+  <li>🐴 - horse face
+  <li>🦄 - unicorn face
+  <li>🐔 - chicken
+  <li>🐲 - dragon face
+  <li>🐽 - pig nose
+  <li>🐾 - paw prints
+  <li>🐩 - poodle
+  <li>🦌 - deer
+  <li>🦍 - gorilla
+  <li>🦏 - rhinoceros
+  <li>🐒 - monkey
+  <li>🐕 - dog
+  <li>🐈 - cat
+  <li>🐅 - tiger
+  <li>🐆 - leopard
 </ul></h3>
