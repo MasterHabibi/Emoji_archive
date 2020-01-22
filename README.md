@@ -146,4 +146,11 @@
   <li>🐈 - cat
   <li>🐅 - tiger
   <li>🐆 - leopard
+  <li>🐎 - horse
+  <li>🐂 - ox
+  <li>🐃 - water buffalo
+  <li>🐄 - cow
+  <li>🐖 - pig
+  <li>🐏 - ram
+  <li>🐑 - ewe
 </ul></h3>
