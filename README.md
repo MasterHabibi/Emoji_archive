@@ -153,4 +153,5 @@
   <li>🐖 - pig
   <li>🐏 - ram
   <li>🐑 - ewe
+  <li>🐐 - goat
 </ul></h3>
