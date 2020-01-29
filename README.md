@@ -154,4 +154,5 @@
   <li>🐏 - ram
   <li>🐑 - ewe
   <li>🐐 - goat
+  <li>🐪 - camel
 </ul></h3>
