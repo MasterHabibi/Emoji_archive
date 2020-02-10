@@ -15,6 +15,7 @@
   <li>😎 - smiling face with sunglasses
   <li>😍 - smiling face with heart-eyes
   <li>😘 - face blowing a kiss
+  <li>🥰 - smiling face with hearts
   <li>😗 - kissing face
   <li>😙 - lissing face with smiling eyes
   <li>😚 - kissing face with closed eyes
@@ -66,6 +67,7 @@
   <li>😳 - flushed face
   <li>🤪 - crazy face
   <li>😵 - dizzy face
+  <li>🥴 - woozy face
   <li>😠 - angry face
   <li>😡 - pouting face
   <li>🤬 - face with symbols over mouth
@@ -76,6 +78,8 @@
   <li>🤮 - face vomiting
   <li>🤧 - sneezing face
   <li>😇 - smiling face with halo
+  <li>🥳 - partying face
+  <li>🥺 - pleading face
   <li>🤠 - cowboy hat face
   <li>🤡 - clown face
   <li>🤥 - lying face
@@ -120,6 +124,7 @@
   <li>🐯 - tiger face
   <li>🦒 - giraffe
   <li>🦊 - fox face
+  <li>🦝 - raccoon
   <li>🐮 - cow face
   <li>🐷 - pig face
   <li>🐗 - boar
@@ -137,16 +142,20 @@
   <li>🐲 - dragon face
   <li>🐽 - pig nose
   <li>🐾 - paw prints
-  <li>🐩 - poodle
-  <li>🦌 - deer
-  <li>🦍 - gorilla
-  <li>🦏 - rhinoceros
   <li>🐒 - monkey
-  <li>🐕 - dog
-  <li>🐈 - cat
+  <li>🦍 - gorilla
+  <li>🦧 - orangutan
+  <li>🦮 - guide dog
+  <li>🐕‍🦺 - service dog
+  <li>🐩 - poodle
+  <li>🐕 - dog 
+  <li>🐈 - cat 
   <li>🐅 - tiger
   <li>🐆 - leopard
-  <li>🐎 - horse
+  <li>🐎 - horse  
+  <li>🦌 - deer
+  <li>🦏 - rhinoceros
+  <li>🦛 - hippopotamus
   <li>🐂 - ox
   <li>🐃 - water buffalo
   <li>🐄 - cow
@@ -155,5 +164,9 @@
   <li>🐑 - ewe
   <li>🐐 - goat
   <li>🐪 - camel
-    
+  <li>🐫 - two-hump camel
+  <li>🦙 - llama
+  <li>🦘 - kangaroo
+  <li>🦥 - sloth
+  <li>🦨 - skunk
 </ul></h3>
