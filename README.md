@@ -36,6 +36,7 @@
   <li>😯 - hushed face
   <li>😪 - sleepy face
   <li>😫 - tered face
+  <li>🥱 - yawning face
   <li>😴 - sleeping face
   <li>😌 - relieved face
   <li>😛 - face with stuck-out tongue
@@ -64,6 +65,8 @@
   <li>😬 - grimacing face
   <li>😰 - face with open mouth face with open mouth and coald sweat
   <li>😱 - face screaming in fear
+  <li>🥵 - hot face
+  <li>🥶 - cold face
   <li>😳 - flushed face
   <li>🤪 - crazy face
   <li>😵 - dizzy face
