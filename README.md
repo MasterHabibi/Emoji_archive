@@ -172,4 +172,7 @@
   <li>🦘 - kangaroo
   <li>🦥 - sloth
   <li>🦨 - skunk
+  <li>🦡 - badger
+  <li>🐘 - elephant
+  <li>🐁 - mouse
 </ul></h3>
