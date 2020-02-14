@@ -175,4 +175,7 @@
   <li>🦡 - badger
   <li>🐘 - elephant
   <li>🐁 - mouse
+  <li>🐀 - rat
+  <li>🦔 - hedgehog
+  <li>🐇 - rabbit
 </ul></h3>
