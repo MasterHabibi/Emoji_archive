@@ -179,4 +179,5 @@
   <li>🦔 - hedgehog
   <li>🐇 - rabbit
   <li>🐿 - chipmunk
+  <li>🦎 - lizard
 </ul></h3>
