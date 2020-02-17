@@ -180,4 +180,8 @@
   <li>🐇 - rabbit
   <li>🐿 - chipmunk
   <li>🦎 - lizard
+  <li>🐊 - crocodile
+  <li>🐢 - turtle
+  <li>🐍 - snake
+  <li>🐉 - dragon
 </ul></h3>
