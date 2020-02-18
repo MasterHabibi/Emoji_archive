@@ -184,4 +184,7 @@
   <li>🐢 - turtle
   <li>🐍 - snake
   <li>🐉 - dragon
+  <li>🦕 - sauropod
+  <li>🦖 - T-Rex
+  <li>🦦 - otter
 </ul></h3>
