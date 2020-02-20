@@ -187,4 +187,6 @@
   <li>🦕 - sauropod
   <li>🦖 - T-Rex
   <li>🦦 - otter
+  <li>🦈 - shark
+  <li>🐬 - dolphin
 </ul></h3>
