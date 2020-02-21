@@ -189,4 +189,5 @@
   <li>🦦 - otter
   <li>🦈 - shark
   <li>🐬 - dolphin
+  <li>🐳 - spouting whale
 </ul></h3>
