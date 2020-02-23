@@ -190,4 +190,7 @@
   <li>🦈 - shark
   <li>🐬 - dolphin
   <li>🐳 - spouting whale
+  <li>🐋 - whale
+  <li>🐟 - fish
+  <li>🐠 - tropical fish
 </ul></h3>
