@@ -193,4 +193,7 @@
   <li>🐋 - whale
   <li>🐟 - fish
   <li>🐠 - tropical fish
+  <li>🐡 - blowfish
+  <li>🦐 - shrimp
+  <li>🦑 - squid
 </ul></h3>
