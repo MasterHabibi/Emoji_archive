@@ -196,4 +196,5 @@
   <li>🐡 - blowfish
   <li>🦐 - shrimp
   <li>🦑 - squid
+  <li>🐙 - octopus
 </ul></h3>
