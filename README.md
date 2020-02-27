@@ -197,4 +197,5 @@
   <li>🦐 - shrimp
   <li>🦑 - squid
   <li>🐙 - octopus
+  <li>🦞 - lobster
 </ul></h3>
