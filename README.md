@@ -198,4 +198,9 @@
   <li>🦑 - squid
   <li>🐙 - octopus
   <li>🦞 - lobster
+  <li>🦀 - crab
+  <li>🐚 - spiral shell
+  <li>🦆 - duck
+  <li>🐓 - rooster
+  <li>🦃 - turkey
 </ul></h3>
