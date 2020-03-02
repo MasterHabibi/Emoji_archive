@@ -204,4 +204,5 @@
   <li>🐓 - rooster
   <li>🦃 - turkey
   <li>🦅 - eagle
+  <li>🕊 - dove
 </ul></h3>
