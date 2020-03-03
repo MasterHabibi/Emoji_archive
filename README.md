@@ -205,4 +205,9 @@
   <li>🦃 - turkey
   <li>🦅 - eagle
   <li>🕊 - dove
+  <li>🦢 - swan
+  <li>🦜 - parrot
+  <li>🦩 - flamingo
+  <li>🦚 - peacock
+  <li>🦉 - owl
 </ul></h3>
