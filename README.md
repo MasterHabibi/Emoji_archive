@@ -210,4 +210,5 @@
   <li>🦩 - flamingo
   <li>🦚 - peacock
   <li>🦉 - owl
+  <li>🐦 - bird
 </ul></h3>
