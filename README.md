@@ -212,4 +212,5 @@
   <li>🦉 - owl
   <li>🐦 - bird
   <li>🐧 - penguin
+  <li>🐥 - front-facing baby chick
 </ul></h3>
