@@ -214,4 +214,5 @@
   <li>🐧 - penguin
   <li>🐥 - front-facing baby chick
   <li>🐤 - baby chick
+  <li>🐣 - hatching chick
 </ul></h3>
