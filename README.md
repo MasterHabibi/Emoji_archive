@@ -215,4 +215,12 @@
   <li>🐥 - front-facing baby chick
   <li>🐤 - baby chick
   <li>🐣 - hatching chick
+  <li>🦇 - bat
+  <li>🦋 - butterfly
+  <li>🐌 - snail
+  <li>🐛 - bug
+  <li>🦟 - mosquito
+  <li>🦗 - cricket
+  <li>🐜 - ant
+  <li>🐝 - honeybee
 </ul></h3>
