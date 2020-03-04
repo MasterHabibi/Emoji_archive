@@ -211,4 +211,5 @@
   <li>🦚 - peacock
   <li>🦉 - owl
   <li>🐦 - bird
+  <li>🐧 - penguin
 </ul></h3>
