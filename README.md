@@ -223,4 +223,5 @@
   <li>🦗 - cricket
   <li>🐜 - ant
   <li>🐝 - honeybee
+  <li>🐞 - lady beetle
 </ul></h3>
