@@ -224,4 +224,5 @@
   <li>🐜 - ant
   <li>🐝 - honeybee
   <li>🐞 - lady beetle
+  <li>🦂 - scorpion
 </ul></h3>
