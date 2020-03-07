@@ -225,4 +225,5 @@
   <li>🐝 - honeybee
   <li>🐞 - lady beetle
   <li>🦂 - scorpion
+  <li>🕷 - spider
 </ul></h3>
