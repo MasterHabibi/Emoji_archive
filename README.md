@@ -226,4 +226,5 @@
   <li>🐞 - lady beetle
   <li>🦂 - scorpion
   <li>🕷 - spider
+  <li>🕸 - spider web
 </ul></h3>
