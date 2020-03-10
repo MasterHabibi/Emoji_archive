@@ -227,4 +227,5 @@
   <li>🦂 - scorpion
   <li>🕷 - spider
   <li>🕸 - spider web
+  <li>🦠 - microbe
 </ul></h3>
