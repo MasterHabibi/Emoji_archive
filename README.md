@@ -228,4 +228,5 @@
   <li>🕷 - spider
   <li>🕸 - spider web
   <li>🦠 - microbe
+  <li>🧞‍♀️ - woman genie
 </ul></h3>
