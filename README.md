@@ -230,4 +230,5 @@
   <li>🦠 - microbe
   <li>🧞‍♀️ - woman genie
   <li>🧞‍♂️ - man genie
+  <li>🗣 - speaking head
 </ul></h3>
