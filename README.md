@@ -231,4 +231,5 @@
   <li>🧞‍♀️ - woman genie
   <li>🧞‍♂️ - man genie
   <li>🗣 - speaking head
+  <li>👤 - bust in silhouette
 </ul></h3>
