@@ -232,4 +232,5 @@
   <li>🧞‍♂️ - man genie
   <li>🗣 - speaking head
   <li>👤 - bust in silhouette
+  <li>👥 - busts in silhouette
 </ul></h3>
