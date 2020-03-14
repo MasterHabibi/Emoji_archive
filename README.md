@@ -233,4 +233,5 @@
   <li>🗣 - speaking head
   <li>👤 - bust in silhouette
   <li>👥 - busts in silhouette
+  <li>👁 - eye
 </ul></h3>
