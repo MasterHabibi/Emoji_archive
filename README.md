@@ -234,4 +234,5 @@
   <li>👤 - bust in silhouette
   <li>👥 - busts in silhouette
   <li>👁 - eye
+  <li>👀 - eyes
 </ul></h3>
