@@ -235,4 +235,5 @@
   <li>👥 - busts in silhouette
   <li>👁 - eye
   <li>👀 - eyes
+  <li>🦴 - bone
 </ul></h3>
