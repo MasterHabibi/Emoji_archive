@@ -236,4 +236,5 @@
   <li>👁 - eye
   <li>👀 - eyes
   <li>🦴 - bone
+  <li>🦷 - tooth
 </ul></h3>
