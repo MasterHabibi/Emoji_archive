@@ -237,4 +237,5 @@
   <li>👀 - eyes
   <li>🦴 - bone
   <li>🦷 - tooth
+  <li>👅 - tongue
 </ul></h3>
