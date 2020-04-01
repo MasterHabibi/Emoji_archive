@@ -238,4 +238,5 @@
   <li>🦴 - bone
   <li>🦷 - tooth
   <li>👅 - tongue
+  <li>👄 - mouth
 </ul></h3>
