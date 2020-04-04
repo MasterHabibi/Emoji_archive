@@ -239,4 +239,11 @@
   <li>🦷 - tooth
   <li>👅 - tongue
   <li>👄 - mouth
+  <li>🧠 - brain
+  <li>🦾 - mechanical arm
+  <li>🦿 - mechanical leg
+  <li>👣 - footprints
+  <li>🤺 - person fencing
+  <li>⛷ - skier
+  <li>🤼‍♂️ - men wrestling
 </ul></h3>
