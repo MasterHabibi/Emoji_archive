@@ -246,4 +246,5 @@
   <li>🤺 - person fencing
   <li>⛷ - skier
   <li>🤼‍♂️ - men wrestling
+  <li>🤼‍♀️ - women wrestling
 </ul></h3>
