@@ -247,4 +247,5 @@
   <li>⛷ - skier
   <li>🤼‍♂️ - men wrestling
   <li>🤼‍♀️ - women wrestling
+  <li>👯‍♂️ - men with bunny ears
 </ul></h3>
