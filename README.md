@@ -248,4 +248,5 @@
   <li>🤼‍♂️ - men wrestling
   <li>🤼‍♀️ - women wrestling
   <li>👯‍♂️ - men with bunny ears
+  <li>👯‍♀️ - women with bunny ears
 </ul></h3>
