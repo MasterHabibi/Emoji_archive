@@ -249,4 +249,5 @@
   <li>🤼‍♀️ - women wrestling
   <li>👯‍♂️ - men with bunny ears
   <li>👯‍♀️ - women with bunny ears
+  <li>💑 - couple with heart
 </ul></h3>
