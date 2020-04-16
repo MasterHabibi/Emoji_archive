@@ -251,4 +251,5 @@
   <li>👯‍♀️ - women with bunny ears
   <li>💑 - couple with heart
   <li>👩‍❤️‍👩 - couple with heart: woman, woman
+  <li>👨‍❤️‍👨 - couple with heart: man, man
 </ul></h3>
