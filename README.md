@@ -252,4 +252,5 @@
   <li>💑 - couple with heart
   <li>👩‍❤️‍👩 - couple with heart: woman, woman
   <li>👨‍❤️‍👨 - couple with heart: man, man
+  <li>💏 - kiss
 </ul></h3>
