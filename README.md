@@ -256,4 +256,5 @@
   <li>👩‍❤️‍💋‍👩 - kiss: woman, woman
   <li>👨‍❤️‍💋‍👨 - kiss: man, man
   <li>👪 - family
+  <li>👨‍👩‍👦 - family: man, woman, boy
 </ul></h3>
