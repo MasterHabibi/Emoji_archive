@@ -266,4 +266,5 @@
   <li>👨‍👨‍👧‍👦 - family: man, man, girl, boy
   <li>👨‍👨‍👦‍👦 - family: man, man, boy, boy 
   <li>👨‍👨‍👧‍👧 - family: man, man, girl, girl
+  <li>👩‍👩‍👦 - family: woman, woman, boy
 </ul></h3>
